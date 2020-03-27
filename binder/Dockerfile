@@ -3,4 +3,3 @@
 # Copied from https://github.com/jupyter/docker-stacks/blob/master/binder/Dockerfile
 FROM jupyter/base-notebook:17aba6048f44
 ENV TAG="17aba6048f44"
-COPY binder/README.ipynb .
